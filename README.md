@@ -1,2 +1,2 @@
 # odin-recipes
-Tutorial project
+Project containing food recipes all around the globle.
